@@ -1,0 +1,5 @@
+servidor/pocketbase
+servidor/pocketbase.exe
+servidor/pb_data/
+node_modules/
+.DS_Store
